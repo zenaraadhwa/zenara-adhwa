@@ -1,0 +1,1 @@
+var json_hgis_1 = {"type":"FeatureCollection","name":"hgis_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[105.244711336505276,-5.42670300265185]}}]}
